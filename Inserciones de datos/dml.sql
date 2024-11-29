@@ -2,6 +2,7 @@
 
 use universitario;
 
+
 /* Departamento */
 INSERT INTO departamento VALUES (1, 'Informática');
 INSERT INTO departamento VALUES (2, 'Matemáticas');
